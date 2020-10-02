@@ -1,0 +1,22 @@
+{
+  "name": "fitfont-types",
+  "version": "0.0.1",
+  "description": "Types definitions to use fitfont with TypeScript",
+  "author": "Jérémy Jeanson (https://www.bugshunter.net)",
+  "license": "MIT",
+  "homepage": "https://github.com/JeremyJeanson/fitfont-types",
+  "bugs": {
+    "url": "https://github.com/JeremyJeanson/fitfont-types/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeremyJeanson/fitfont-types.git"
+  },
+  "keywords": [
+    "fitbit",
+    "fitbitdev",
+    "fitfont",
+    "typescript",
+    "types"
+  ]
+}
