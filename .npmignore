@@ -1,1 +1,4 @@
+.eslintignore
+.eslintrc.json
+tsconfig.json
 demo
