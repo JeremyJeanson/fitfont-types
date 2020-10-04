@@ -16,23 +16,23 @@ declare module "fitfont" {
         /**
          * Id fo the symbol or the Element to use
          */
-        id: string | Element,
+        id: string | Element;
         /**
          * name of the generated font folder
          */
-        font: string,
+        font: string;
         /**
          * Horizontal alignment
          */
-        halign?: HorizontalAlign,
+        halign?: HorizontalAlign;
         /**
          * Vertical alignment
          */
-        valign?: VerticalAlign,
+        valign?: VerticalAlign;
         /**
          * Letter spacing
          */
-        letterspacing?: number
+        letterspacing?: number;
     }
 
     /**

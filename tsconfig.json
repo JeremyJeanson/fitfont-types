@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "noEmit": true
+    },
+    "exclude": [
+        "demo"
+    ]
+}
